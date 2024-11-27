@@ -1,0 +1,11 @@
+.Menu {
+  background-color: rgba(120, 12, 12, 0.78);
+}
+.link {
+  box-sizing: border-box;
+  background-color: rgba(120, 12, 12, 0.78);
+  color: aliceblue;
+  text-decoration: none;
+  margin: 5px;
+  padding: 5px;
+}

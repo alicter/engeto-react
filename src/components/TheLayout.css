@@ -1,0 +1,24 @@
+.TheLayout {
+  margin: 2%;
+  padding: 2%;
+  text-align: center;
+}
+.BooksDivB {
+  display: flex;
+  background-color: rgba(80, 80, 120, 0.5);
+}
+.BooksDivB {
+  display: flex;
+  background-color: rgba(80, 80, 120, 0.5);
+}
+
+@media (min-width: 940px) {
+  .BooksDivB {
+    flex-direction: row;
+  }
+}
+@media (max-width: 940px) {
+  .BooksDivB {
+    flex-direction: column;
+  }
+}

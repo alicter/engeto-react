@@ -1,0 +1,14 @@
+.itemStatic {
+  flex: auto;
+  background-color: rgba(120, 105, 80, 0.595);
+  margin: 5px;
+  padding: 5px;
+}
+.imagesStatic {
+  width: 200px;
+  height: 150px;
+  border-bottom: 1px orange solid;
+  border-right: 1px orangered solid;
+  border-top: 1px black solid;
+  border-left: 1px grey solid;
+}

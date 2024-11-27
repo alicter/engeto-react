@@ -1,0 +1,30 @@
+[
+  {
+    "index": 0,
+    "book": "Bible",
+    "author": "Více autorů",
+    "note": "Množství knih ispirovaných autorů",
+    "img": "bible"
+  },
+  {
+    "index": 1,
+    "book": "Umění války",
+    "author": "Sun-C",
+    "note": "Jak být dobrým vojevůdcem",
+    "img": "war"
+  },
+  {
+    "index": 2,
+    "book": "Metafyzika",
+    "author": "Aristoteles",
+    "note": "Poznání světa jako celku",
+    "img": "metafyzika"
+  },
+  {
+    "index": 3,
+    "book": "Suma proti pohanům",
+    "author": "Tomáš Akvinský",
+    "note": "Scholastická aplikace Aristotelovy Metafyziky",
+    "img": "sum"
+  }
+]

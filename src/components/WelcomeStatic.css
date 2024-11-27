@@ -1,0 +1,12 @@
+.wlc {
+  background-color: rgba(120, 105, 80, 0.595);
+  text-align: center;
+  padding: 25px;
+}
+.imgStatic {
+  width: 100%;
+  border-bottom: 1px orange solid;
+  border-right: 1px orangered solid;
+  border-top: 1px black solid;
+  border-left: 1px grey solid;
+}

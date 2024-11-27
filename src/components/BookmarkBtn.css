@@ -1,0 +1,15 @@
+.bookmarkBtn {
+  background-color: rgba(120, 105, 80, 0.595);
+  margin: 2%;
+  padding: 2%;
+  border-radius: 2%;
+  font-size: large;
+  color: aliceblue;
+  border: 1px solid burlywood;
+  transition: 0.5s background-color;
+}
+.bookmarkBtn:hover {
+  background-color: rgba(120, 105, 80, 0.595);
+  transition: 0.5s all;
+  box-shadow: 0px 0px 5px burlywood;
+}
